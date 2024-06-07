@@ -1,0 +1,84 @@
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\Ex04Cart.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\exercise_starts\ch04\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.pdb
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\csc.exe
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\vbc.exe
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll.config
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\Ex04Cart.pdb
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.dll
+C:\aspnet46_cs\exercises\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.pdb
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\csc.exe
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\vbc.exe
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll.config
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\Ex04Cart.pdb
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csproj.AssemblyReference.cache
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csproj.CoreCompileInputs.cache
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csproj.Up2Date
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.dll
+C:\Users\shazidul maazid\OneDrive - Conestoga College\Level 3\Programming with .NET\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.pdb
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\csc.exe
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\vbc.exe
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll.config
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\Ex04Cart.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\Ex04Cart.pdb
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csproj.AssemblyReference.cache
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csproj.CoreCompileInputs.cache
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.csproj.CopyComplete
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.dll
+C:\Users\IAT\Downloads\Ex04Cart\Ex04Cart\Ex04Cart\obj\Debug\Ex04Cart.pdb
